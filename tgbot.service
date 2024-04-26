@@ -7,9 +7,9 @@ Type=simple
 User=root
 Group=root
 
-Environment=PYTHONPATH=tgbot
-WorkingDirectory=tgbot
-ExecStart=python tgbot.py
+Environment=PYTHONPATH=/root/tgbot
+WorkingDirectory=/root/tgbot
+ExecStart=/usr/bin/python main.py
 Restart=always
 RestartSec=5
 
