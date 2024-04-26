@@ -1,0 +1,3 @@
+aiogram
+coinmarketcapapi
+python-coinmarketcap

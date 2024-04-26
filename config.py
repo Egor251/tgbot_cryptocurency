@@ -1,0 +1,3 @@
+BOT_TOKEN = '6765679865:AAEIsNJD3vCXUkWONfWh6pH6QynP23oUF5s'
+crypto_token = '9fef1421-d0f3-4075-8cda-4058d8b8d896'
+time = '30'
