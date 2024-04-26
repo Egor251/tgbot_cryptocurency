@@ -11,7 +11,7 @@ try:
     from aiogram.enums.parse_mode import ParseMode
     from aiogram.fsm.storage.memory import MemoryStorage
 except ImportError:
-    os.system('python -m pip install -r requirements.txt')
+    os.system('python3 -m pip install -r requirements.txt')
     import inspect
     import asyncio
     import logging
