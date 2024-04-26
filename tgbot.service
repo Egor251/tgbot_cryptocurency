@@ -9,7 +9,7 @@ Group=root
 
 Environment=PYTHONPATH=/root/tgbot
 WorkingDirectory=/root/tgbot
-ExecStart=/usr/bin/python /root/main.py
+ExecStart=/usr/bin/python3 /root/tgbot/main.py
 Restart=always
 RestartSec=5
 
